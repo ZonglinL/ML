@@ -14,6 +14,10 @@ first download the amazon food review, then run:
 python data.py
 ```
 
+## MLP
+
+follow the ipynb
+
 ## LSTM
 
 follow the ipynb
