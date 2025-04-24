@@ -18,6 +18,10 @@ python data.py
 
 follow the ipynb
 
+## CNN
+
+follow the ipynb
+
 ## LSTM
 
 follow the ipynb
